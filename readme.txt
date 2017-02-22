@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick and simple.
 Testing git merge in --no-ff.
+Testing git merge in ff.
